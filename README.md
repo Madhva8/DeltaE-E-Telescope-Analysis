@@ -7,7 +7,6 @@ The methodology is predicated on the principles of the Bethe-Bloch formula, whic
 
 
 ## Summary of Contributions 👨‍💻
-
 ## 🛠️ Methodology and Tools
 
 The analysis was The author was responsible for the comprehensive data analysis and the generation of all associated visualisations. The specific tasks performed include
@@ -15,3 +14,13 @@ The analysis was The author was responsible for the comprehensive data analysis 
 * The development of Python scripts to perform Gaussian fitting on the spectral data, thereby determining precise peak energies.
 * The calculation of the ΔE detector thickness and the thickness of several Mylar foils, which involved the numerical integration of standardized stopping power data.
 * The generation of theoretical Bethe-Bloch curves for a range of particle types to serve as a basis for comparison with the empirical data.
+
+## Conducted using the following software and libraries:
+* Python
+* NumPy: Utilized for numerical operations and array manipulation.
+* Matplotlib: Employed for the generation of all graphical representations.
+* SciPy: Used for statistical analysis, including curve fitting algorithms.
+
+## Results and Analysis
+
+The following sections present the key graphical results from the analysis, which collectively demonstrate the successful identification of the incident particles.
